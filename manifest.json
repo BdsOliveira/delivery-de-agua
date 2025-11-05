@@ -1,0 +1,23 @@
+{
+    "name": "Delivery de Água Mineral ou Adicionada de Sais",
+    "short_name": "Delivery de Água",
+    "start_url": "/",
+    "display": "fullscreen",
+    "background_color": "#ffffff",
+    "theme_color": "#0000ff",
+    "icons": [
+        {
+            "src": "assets/images/AppIcons/Assets.xcassets/AppIcon.appiconset/50.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/images/AppIcons/Assets.xcassets/AppIcon.appiconset/512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+
+    ],
+    "description": "Aplicativo de delivery de água mineral",
+    "orientation": "portrait-primary"
+}
